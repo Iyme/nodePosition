@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>node.xml</file>
+        <file>singleNode.qml</file>
+        <file>script.js</file>
+    </qresource>
+</RCC>
